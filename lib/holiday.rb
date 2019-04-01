@@ -102,6 +102,7 @@ def all_holidays_with_bbq(holiday_hash)
         holiday_names.push(holiday)
       end
     end
+  end
 
     holiday_names
 
